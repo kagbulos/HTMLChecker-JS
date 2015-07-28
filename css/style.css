@@ -1,0 +1,39 @@
+html {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 100%;
+  background: #ff8c00;
+}
+
+#page-wrapper {
+  background: #FFF;
+  padding: 1em;
+  margin: 1em auto;
+  min-height: 300px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.8);
+}
+
+h1 {
+	margin-top: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+#fileDisplayArea {
+  margin-top: 2em;
+  width: 100%;
+  overflow-x: auto;
+}
+
+.fromFile {
+  color: #00f;
+}
+
+.errors {
+  color: #f00;
+}
+
+.warning {
+  color: #90c;
+}
